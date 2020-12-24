@@ -1,7 +1,7 @@
-title: opsu!
-description: an open-source osu! client
+title: Uh Oh!
+description: We ran into a error. See below.
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
