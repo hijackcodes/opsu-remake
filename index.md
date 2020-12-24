@@ -1,3 +1,3 @@
-This is being **Discontinued.**
+### Oopsie! A error has ocurred.
 
-> However, You can still download the latest file on the right.
+**This project has been Discontinued. (Of course only my remake) Sorry.**
