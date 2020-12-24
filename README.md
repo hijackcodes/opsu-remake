@@ -50,6 +50,7 @@ This software was created by Jeffrey Han
 ([@itdelatrisu](https://github.com/itdelatrisu/)).  All game concepts and
 designs are based on work by osu! developer Dean Herbert.  Other credits can
 be found [here](CREDITS.md).
+Im not claiming this project as mine, Im just simply changing Logos and stuff. So, Dont get mad at me pls.
 
 ## License
 **This software is licensed under GNU GPL version 3.**
